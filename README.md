@@ -1,7 +1,7 @@
 # Odoo-Hackathon25
 Problem statement : Skill Swap Platform
 <br>
-Team Leader : Megh Patel
+Team Leader : Patel Megh Bipinbhai
 <br>
 Email : meghpatel2810@gmail.com
 <br>
