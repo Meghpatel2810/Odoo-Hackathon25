@@ -2,32 +2,31 @@
 
 Welcome to **SkillSwap**, a minimal and intuitive platform where users can offer their skills and request others in return. Whether you're great at Photoshop and want to learn Excel, or you’re a guitar teacher looking for yoga classes — SkillSwap connects you with the right people to make it happen.
 
-
 ---
 
-##  Features
+## 🚀 Features
 
-- ** Profile Setup**
+- **🧑 Profile Setup**
   - Name
   - Location *(optional)*
   - Profile photo *(optional)*
   - Public/Private profile visibility toggle
 
-- ** Skills Management**
+- **🛠️ Skills Management**
   - List of skills offered
   - List of skills wanted
   - Set your availability (e.g., evenings, weekends)
 
-- ** Discovery & Search**
+- **🔍 Discovery & Search**
   - Browse or search users by skill (e.g., “Photoshop”, “Excel”)
 
-- ** Skill Swaps**
+- **🔁 Skill Swaps**
   - Request swaps
   - Accept or reject swap offers
   - View current and pending swaps
   - Delete unaccepted requests
 
-- ** Feedback System**
+- **⭐ Feedback System**
   - Rate and leave feedback after each completed swap
 
 ---
